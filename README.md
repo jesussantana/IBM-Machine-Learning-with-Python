@@ -24,20 +24,20 @@
 - Supervised Learning Classification 
 - Unsupervised Learning 
 
-### Module 2 - Supervised Learning I
+### Module 2 - Supervised Learning I  Learning  
+
+- Regression Algorithms 
+- Model Evaluation 
+- Model Evaluation: Overfitting & Underfitting
+- Understanding Different Evaluation Models 
+
+### Module 3 - Supervised Learning II
 
 - K-Nearest Neighbors 
 - Decision Trees 
 - Random Forests
 - Reliability of Random Forests 
 - Advantages & Disadvantages of Decision Trees 
-
-### Module 3 - Supervised Learning II
-
-- Regression Algorithms 
-- Model Evaluation 
-- Model Evaluation: Overfitting & Underfitting
-- Understanding Different Evaluation Models 
 
 ### Module 4 - Unsupervised Learning
 
