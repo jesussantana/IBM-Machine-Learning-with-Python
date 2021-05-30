@@ -24,7 +24,7 @@
 - Supervised Learning Classification 
 - Unsupervised Learning 
 
-### Module 2 - Supervised Learning I  Learning  
+### Module 2 - Supervised Learning I  
 
 - Regression Algorithms 
 - Model Evaluation 
@@ -47,7 +47,7 @@
 - Measuring the Distances Between Clusters - Algorithms for Hierarchy Clustering
 - Density-Based Clustering  
 
-### ### Module 5 - Dimensionality Reduction & Collaborative Filtering
+### Module 5 - Dimensionality Reduction & Collaborative Filtering
 
 - Dimensionality Reduction: Feature Extraction & Selection 
 - Collaborative Filtering & Its Challenges  
